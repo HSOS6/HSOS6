@@ -4,8 +4,8 @@ An ordinary developer who uses ai for development
 主人，喵~  
 中文随机名言试试这个markdown喵~  
 
-![中文名言](https://readme-daily-quotes.vercel.app/api?lang=zh)  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats-one-omega-32.vercel.app/api?username=HSOS6&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-
+![1](https://readme-daily-quotes.vercel.app/api?lang=zh)  
