@@ -1,5 +1,8 @@
 ## HSOS6
-当有机会做出选择的时候，不要让自己后悔。
+An ordinary developer who uses ai for development
+(我就是个臭玩AI的，没有什么能力)
+
+![Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats-one-omega-32.vercel.app/api?username=HSOS6&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
